@@ -1,0 +1,11 @@
+develope an event reg system where users can register for events
+ , view event details and manage thier registrations . 
+
+
+
+ user  name , email , password , bookedEvents ,role 
+ event name, decs , venue , date ,capacity ,status  
+
+
+
+ example :   mahesh kale concert 
